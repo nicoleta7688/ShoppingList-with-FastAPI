@@ -1,10 +1,5 @@
 # Shopping List API
 
-![GitHub](https://img.shields.io/github/license/nicoleta7688/shopping-list-api)
-![GitHub repo size](https://img.shields.io/github/repo-size/nicoleta7688/shopping-list-api)
-![GitHub issues](https://img.shields.io/github/issues/nicoleta7688/shopping-list-api)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/nicoleta7688/shopping-list-api)
-
 This repository contains the source code for a RESTful API designed to manage a shopping list. The API allows users to perform CRUD operations (Create, Read, Update, Delete) on shopping items.
 
 ## Features
@@ -24,9 +19,9 @@ This repository contains the source code for a RESTful API designed to manage a 
 
 ## Usage
 
-1. **Clone the repository**: git clone https://github.com/your-username/shopping-list-api.git
-2. **Install the dependencies**: pip install -r requirements.txt
-3. **Run the API**: uvicorn main:app --reload
+1. **Clone the repository**: ```git clone https://github.com/your-username/shopping-list-api.git```
+2. **Install the dependencies**: ```pip install -r requirements.txt```
+3. **Run the API**: ```uvicorn main:app --reload```
 
 The API will be available at http://localhost:8000.
 
