@@ -20,7 +20,7 @@ This repository contains the source code for a RESTful API designed to manage a 
 ## Usage
 
 1. **Clone the repository**: ```git clone https://github.com/nicoleta7688/ShoppingList-with-FastAPI```
-2. **Install Fast API**: ```pip install "fastapi[all]"```
+2. **Install the dependencies**: ```pip install -r requirements.txt```
 3. **Run the API**: ```uvicorn main:app --reload```
 
 The API will be available at http://localhost:8000.
